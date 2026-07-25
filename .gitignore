@@ -1,0 +1,43 @@
+# Runtime output
+Logs/*
+!Logs/.gitkeep
+Output/
+Cache/
+Reports/
+CrashReports/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.log
+*.dmp
+Thumbs.db
+Desktop.ini
+
+# IDE/tooling
+.vscode/
+.idea/
+
+# Build output
+bin/
+obj/
+dist/
+build/
+
+# Release archives
+*.zip
+*.7z
+*.rar
+
+# Local config and secrets
+*.local.json
+Config.local.json
+.env
+.env.*
+secrets.json
+
+# Generated database artifacts
+Database/*.backup.json
+Database/*-merge-report.json
