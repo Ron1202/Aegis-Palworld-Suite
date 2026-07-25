@@ -1,0 +1,81 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260722164432
+Username: MX-WS01\Myron
+RunAs User: MX-WS01\Myron
+Configuration Name: 
+Machine: MX-WS01 (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoLogo -NoProfile -ExecutionPolicy Bypass -File E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0-Full-Paldeck-Importer\Aegis-Palworld-Suite-2.3.0-Full-Paldeck-Importer\Engine\Repair-ItemIcons.ps1
+Process ID: 12280
+PSVersion: 5.1.26100.8875
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.8875
+BuildVersion: 10.0.26100.8875
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+
+Aegis Palworld Suite PNG Icon Repair
+Browser converter: C:\Program Files\Google\Chrome\Application\chrome.exe
+Rebuilding and de-matting 908 item thumbnails...
+
+Processed 20/908 | PNG existing: 0 | Converted: 20 | Downloaded: 0 | Fallback: 0
+Processed 40/908 | PNG existing: 0 | Converted: 40 | Downloaded: 0 | Fallback: 0
+Processed 60/908 | PNG existing: 0 | Converted: 60 | Downloaded: 0 | Fallback: 0
+Processed 80/908 | PNG existing: 0 | Converted: 80 | Downloaded: 0 | Fallback: 0
+Processed 100/908 | PNG existing: 0 | Converted: 100 | Downloaded: 0 | Fallback: 0
+Processed 120/908 | PNG existing: 0 | Converted: 120 | Downloaded: 0 | Fallback: 0
+Processed 140/908 | PNG existing: 0 | Converted: 140 | Downloaded: 0 | Fallback: 0
+Processed 160/908 | PNG existing: 0 | Converted: 160 | Downloaded: 0 | Fallback: 0
+Processed 180/908 | PNG existing: 0 | Converted: 180 | Downloaded: 0 | Fallback: 0
+Processed 200/908 | PNG existing: 0 | Converted: 200 | Downloaded: 0 | Fallback: 0
+Processed 220/908 | PNG existing: 0 | Converted: 220 | Downloaded: 0 | Fallback: 0
+Processed 240/908 | PNG existing: 0 | Converted: 240 | Downloaded: 0 | Fallback: 0
+Processed 260/908 | PNG existing: 0 | Converted: 260 | Downloaded: 0 | Fallback: 0
+Processed 280/908 | PNG existing: 0 | Converted: 280 | Downloaded: 0 | Fallback: 0
+Processed 300/908 | PNG existing: 0 | Converted: 300 | Downloaded: 0 | Fallback: 0
+Processed 320/908 | PNG existing: 0 | Converted: 320 | Downloaded: 0 | Fallback: 0
+Processed 340/908 | PNG existing: 0 | Converted: 340 | Downloaded: 0 | Fallback: 0
+Processed 360/908 | PNG existing: 0 | Converted: 360 | Downloaded: 0 | Fallback: 0
+Processed 380/908 | PNG existing: 0 | Converted: 380 | Downloaded: 0 | Fallback: 0
+Processed 400/908 | PNG existing: 0 | Converted: 400 | Downloaded: 0 | Fallback: 0
+Processed 420/908 | PNG existing: 0 | Converted: 420 | Downloaded: 0 | Fallback: 0
+Processed 440/908 | PNG existing: 0 | Converted: 440 | Downloaded: 0 | Fallback: 0
+Processed 460/908 | PNG existing: 0 | Converted: 460 | Downloaded: 0 | Fallback: 0
+Processed 480/908 | PNG existing: 0 | Converted: 480 | Downloaded: 0 | Fallback: 0
+Processed 500/908 | PNG existing: 0 | Converted: 500 | Downloaded: 0 | Fallback: 0
+Processed 520/908 | PNG existing: 0 | Converted: 520 | Downloaded: 0 | Fallback: 0
+Processed 540/908 | PNG existing: 0 | Converted: 540 | Downloaded: 0 | Fallback: 0
+Processed 560/908 | PNG existing: 0 | Converted: 560 | Downloaded: 0 | Fallback: 0
+Processed 580/908 | PNG existing: 0 | Converted: 580 | Downloaded: 0 | Fallback: 0
+Processed 600/908 | PNG existing: 0 | Converted: 600 | Downloaded: 0 | Fallback: 0
+Processed 620/908 | PNG existing: 0 | Converted: 620 | Downloaded: 0 | Fallback: 0
+Processed 640/908 | PNG existing: 0 | Converted: 640 | Downloaded: 0 | Fallback: 0
+Processed 660/908 | PNG existing: 0 | Converted: 660 | Downloaded: 0 | Fallback: 0
+Processed 680/908 | PNG existing: 0 | Converted: 680 | Downloaded: 0 | Fallback: 0
+Processed 700/908 | PNG existing: 0 | Converted: 700 | Downloaded: 0 | Fallback: 0
+Processed 720/908 | PNG existing: 0 | Converted: 720 | Downloaded: 0 | Fallback: 0
+Processed 740/908 | PNG existing: 0 | Converted: 740 | Downloaded: 0 | Fallback: 0
+Processed 760/908 | PNG existing: 0 | Converted: 760 | Downloaded: 0 | Fallback: 0
+Processed 780/908 | PNG existing: 0 | Converted: 780 | Downloaded: 0 | Fallback: 0
+Processed 800/908 | PNG existing: 0 | Converted: 800 | Downloaded: 0 | Fallback: 0
+Processed 820/908 | PNG existing: 0 | Converted: 820 | Downloaded: 0 | Fallback: 0
+Processed 840/908 | PNG existing: 0 | Converted: 840 | Downloaded: 0 | Fallback: 0
+Processed 860/908 | PNG existing: 0 | Converted: 860 | Downloaded: 0 | Fallback: 0
+Processed 880/908 | PNG existing: 0 | Converted: 880 | Downloaded: 0 | Fallback: 0
+Processed 900/908 | PNG existing: 0 | Converted: 900 | Downloaded: 0 | Fallback: 0
+Processed 908/908 | PNG existing: 0 | Converted: 908 | Downloaded: 0 | Fallback: 0
+
+PNG icon repair completed.
+Existing PNG: 0
+Converted:    908
+Fallbacks:    0
+Report:       E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0-Full-Paldeck-Importer\Aegis-Palworld-Suite-2.3.0-Full-Paldeck-Importer\Database\Icon-Repair-Report.txt
+
+Close and reopen Aegis Palworld Suite to display the PNG thumbnails.
+**********************
+Windows PowerShell transcript end
+End time: 20260722165325
+**********************

@@ -1,0 +1,144 @@
+﻿At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:828 char:12
++   $username = [string]$ui.UsernameBox.Text
++            ~
+Missing statement block in switch statement clause.
+
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:828 char:14
++   $username = [string]$ui.UsernameBox.Text
++              ~
+Missing statement block in switch statement clause.
+
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:828 char:43
++   $username = [string]$ui.UsernameBox.Text
++                                           ~
+Missing statement block in switch statement clause.
+
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:829 char:5
++   if ([string]::IsNullOrWhiteSpace($username)) {
++     ~
+Missing statement block in switch statement clause.
+
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:834 char:11
++   $command = "!give $username $($selected.id):$amount"
++           ~
+Missing statement block in switch statement clause.
+
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:834 char:13
++   $command = "!give $username $($selected.id):$amount"
++             ~
+Missing statement block in switch statement clause.
+
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:834 char:55
++   $command = "!give $username $($selected.id):$amount"
++                                                       ~
+Missing statement block in switch statement clause.
+
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:835 char:4
++  if($ui.SilentBox.IsChecked -and $cmd){$cmd="$cmd silent"};$ui.Genera ...
++    ~
+Missing statement block in switch statement clause.
+
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:835 char:81
++ ... sChecked -and $cmd){$cmd="$cmd silent"};$ui.GeneratedBox.Text=$cmd.Tr ...
++                                                                  ~
+Missing statement block in switch statement clause.
+
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:835 char:91
++ ... cked -and $cmd){$cmd="$cmd silent"};$ui.GeneratedBox.Text=$cmd.Trim()
++                                                                        ~
+Missing statement block in switch statement clause.
+
+Not all parse errors were reported.  Correct the reported errors and try again.
+    + CategoryInfo          : ParserError: (:) [], ParseException
+    + FullyQualifiedErrorId : MissingSwitchStatementClause
+ 
+
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:828 char:12
++   $username = [string]$ui.UsernameBox.Text
++            ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:828 char:14
++   $username = [string]$ui.UsernameBox.Text
++              ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:828 char:43
++   $username = [string]$ui.UsernameBox.Text
++                                           ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:829 char:5
++   if ([string]::IsNullOrWhiteSpace($username)) {
++     ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:834 char:11
++   $command = "!give $username $($selected.id):$amount"
++           ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:834 char:13
++   $command = "!give $username $($selected.id):$amount"
++             ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:834 char:55
++   $command = "!give $username $($selected.id):$amount"
++                                                       ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:835 char:4
++  if($ui.SilentBox.IsChecked -and $cmd){$cmd="$cmd silent"};$ui.Genera ...
++    ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:835 char:81
++ ... sChecked -and $cmd){$cmd="$cmd silent"};$ui.GeneratedBox.Text=$cmd.Tr ...
++                                                                  ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:835 char:91
++ ... cked -and $cmd){$cmd="$cmd silent"};$ui.GeneratedBox.Text=$cmd.Trim()
++                                                                        ~
+Missing statement block in switch statement clause.
+Not all parse errors were reported.  Correct the reported errors and try again.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingSwitchStatementClause
+ 
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:828 char:12
++   $username = [string]$ui.UsernameBox.Text
++            ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:828 char:14
++   $username = [string]$ui.UsernameBox.Text
++              ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:828 char:43
++   $username = [string]$ui.UsernameBox.Text
++                                           ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:829 char:5
++   if ([string]::IsNullOrWhiteSpace($username)) {
++     ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:834 char:11
++   $command = "!give $username $($selected.id):$amount"
++           ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:834 char:13
++   $command = "!give $username $($selected.id):$amount"
++             ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:834 char:55
++   $command = "!give $username $($selected.id):$amount"
++                                                       ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:835 char:4
++  if($ui.SilentBox.IsChecked -and $cmd){$cmd="$cmd silent"};$ui.Genera ...
++    ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:835 char:81
++ ... sChecked -and $cmd){$cmd="$cmd silent"};$ui.GeneratedBox.Text=$cmd.Tr ...
++                                                                  ~
+Missing statement block in switch statement clause.
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.3.0\Aegis-Palworld-Suite-2.3.0\App\Aegis-Palworld-Suite.ps1:835 char:91
++ ... cked -and $cmd){$cmd="$cmd silent"};$ui.GeneratedBox.Text=$cmd.Trim()
++                                                                        ~
+Missing statement block in switch statement clause.
+Not all parse errors were reported.  Correct the reported errors and try again.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingSwitchStatementClause
+ 
+^C

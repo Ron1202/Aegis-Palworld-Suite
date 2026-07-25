@@ -1,0 +1,22 @@
+Command,Template
+Give Yourself Items,!giveme item:amount
+Give Player Items,!give playername item:amount
+Spawn Pal,!spawn PalAsset Level [IsShiny] [IsUncapturable] [ForceCapturable]
+Capture Pal,!capture PalAsset Level [IsShiny]
+Give Player XP,!exp playername amount
+Give Yourself XP,!giveexp amount
+Fly,!fly enable/disable
+Spectate,!spectate
+Announce,!announce message
+Set Time,!settime 0-23
+Slay Player,!slay playername
+Kick Player,!kick playername
+Ban Player,!ban playername
+Unban Player,!unban playername
+Freeze Player,!freeze playername
+Unfreeze Player,!unfreeze playername
+Teleport,!goto x,y,z
+Get Position,!getpos
+Help,!help
+Unstuck,!unstuck
+Show Time,!time

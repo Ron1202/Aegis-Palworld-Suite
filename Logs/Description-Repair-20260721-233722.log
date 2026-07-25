@@ -1,0 +1,25 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260721233722
+Username: MX-WS01\Myron
+RunAs User: MX-WS01\Myron
+Configuration Name: 
+Machine: MX-WS01 (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoLogo -NoProfile -ExecutionPolicy Bypass -File E:\Downloads\Aegis\Aegis-Palworld-Suite-2.2.0-UI-and-Descriptions\Aegis-Palworld-Suite-2.2.0-UI-and-Descriptions\Engine\Repair-ItemDescriptions.ps1
+Process ID: 31496
+PSVersion: 5.1.26100.8875
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.8875
+BuildVersion: 10.0.26100.8875
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Processed 50/516 | Added 0 | Unresolved 1
+Descriptions added: 0
+Unresolved: 3
+**********************
+Windows PowerShell transcript end
+End time: 20260721233722
+**********************

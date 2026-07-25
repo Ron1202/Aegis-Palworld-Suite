@@ -1,0 +1,61 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260722071305
+Username: MX-WS01\Myron
+RunAs User: MX-WS01\Myron
+Configuration Name: 
+Machine: MX-WS01 (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoLogo -NoProfile -ExecutionPolicy Bypass -File E:\Downloads\Aegis\Aegis-Palworld-Suite-2.2.1-ComboBox-Fix\Aegis-Palworld-Suite-2.2.1-ComboBox-Fix\Engine\Repair-ItemIcons.ps1
+Process ID: 24624
+PSVersion: 5.1.26100.8875
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.8875
+BuildVersion: 10.0.26100.8875
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+
+Aegis Palworld Suite PNG Icon Repair
+Browser converter: C:\Program Files\Google\Chrome\Application\chrome.exe
+Rebuilding and de-matting 516 item thumbnails...
+
+Processed 20/516 | PNG existing: 0 | Converted: 20 | Downloaded: 0 | Fallback: 0
+Processed 40/516 | PNG existing: 0 | Converted: 40 | Downloaded: 0 | Fallback: 0
+Processed 60/516 | PNG existing: 0 | Converted: 60 | Downloaded: 0 | Fallback: 0
+Processed 80/516 | PNG existing: 0 | Converted: 80 | Downloaded: 0 | Fallback: 0
+Processed 100/516 | PNG existing: 0 | Converted: 100 | Downloaded: 0 | Fallback: 0
+Processed 120/516 | PNG existing: 0 | Converted: 120 | Downloaded: 0 | Fallback: 0
+Processed 140/516 | PNG existing: 0 | Converted: 140 | Downloaded: 0 | Fallback: 0
+Processed 160/516 | PNG existing: 0 | Converted: 160 | Downloaded: 0 | Fallback: 0
+Processed 180/516 | PNG existing: 0 | Converted: 180 | Downloaded: 0 | Fallback: 0
+Processed 200/516 | PNG existing: 0 | Converted: 200 | Downloaded: 0 | Fallback: 0
+Processed 220/516 | PNG existing: 0 | Converted: 220 | Downloaded: 0 | Fallback: 0
+Processed 240/516 | PNG existing: 0 | Converted: 240 | Downloaded: 0 | Fallback: 0
+Processed 260/516 | PNG existing: 0 | Converted: 260 | Downloaded: 0 | Fallback: 0
+Processed 280/516 | PNG existing: 0 | Converted: 280 | Downloaded: 0 | Fallback: 0
+Processed 300/516 | PNG existing: 0 | Converted: 300 | Downloaded: 0 | Fallback: 0
+Processed 320/516 | PNG existing: 0 | Converted: 320 | Downloaded: 0 | Fallback: 0
+Processed 340/516 | PNG existing: 0 | Converted: 340 | Downloaded: 0 | Fallback: 0
+Processed 360/516 | PNG existing: 0 | Converted: 360 | Downloaded: 0 | Fallback: 0
+Processed 380/516 | PNG existing: 0 | Converted: 380 | Downloaded: 0 | Fallback: 0
+Processed 400/516 | PNG existing: 0 | Converted: 400 | Downloaded: 0 | Fallback: 0
+Processed 420/516 | PNG existing: 0 | Converted: 420 | Downloaded: 0 | Fallback: 0
+Processed 440/516 | PNG existing: 0 | Converted: 440 | Downloaded: 0 | Fallback: 0
+Processed 460/516 | PNG existing: 0 | Converted: 460 | Downloaded: 0 | Fallback: 0
+Processed 480/516 | PNG existing: 0 | Converted: 480 | Downloaded: 0 | Fallback: 0
+Processed 500/516 | PNG existing: 0 | Converted: 500 | Downloaded: 0 | Fallback: 0
+Processed 516/516 | PNG existing: 0 | Converted: 516 | Downloaded: 0 | Fallback: 0
+
+PNG icon repair completed.
+Existing PNG: 0
+Converted:    516
+Fallbacks:    0
+Report:       E:\Downloads\Aegis\Aegis-Palworld-Suite-2.2.1-ComboBox-Fix\Aegis-Palworld-Suite-2.2.1-ComboBox-Fix\Database\Icon-Repair-Report.txt
+
+Close and reopen Aegis Palworld Suite to display the PNG thumbnails.
+**********************
+Windows PowerShell transcript end
+End time: 20260722071806
+**********************

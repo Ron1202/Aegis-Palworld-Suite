@@ -1,0 +1,19 @@
+{
+    "StartedFrom":  "E:\\Downloads\\Aegis\\Aegis-Palworld-Suite-2.3.0\\Aegis-Palworld-Suite-2.3.0\\Aegis-Paldeck-Item-Importer-1.0.2\\Aegis-Paldeck-Item-Importer-1.0.2\\Input\\Items.txt",
+    "CompletedAtUtc":  "2026-07-22T22:36:37.8939859Z",
+    "InputLineCount":  2466,
+    "UniqueValidUrlCount":  2466,
+    "SuccessfulItemCount":  2466,
+    "FailedItemCount":  98,
+    "DownloadIcons":  true,
+    "Quantity":  9999,
+    "OutputFiles":  [
+                        "items.json",
+                        "technologyids.json",
+                        "aegis-items.json",
+                        "items.csv",
+                        "give-commands.txt",
+                        "giveme-commands.txt",
+                        "failed-items.json"
+                    ]
+}

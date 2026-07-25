@@ -1,0 +1,7 @@
+{
+  "name": "Aegis Paldeck Item Importer",
+  "version": "1.0.2",
+  "input_unique_urls": 2466,
+  "source_file": "Input/Items.txt",
+  "primary_output": "Output/aegis-items.json"
+}

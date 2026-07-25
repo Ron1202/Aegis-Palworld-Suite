@@ -1,0 +1,20 @@
+Aegis Palworld Suite startup error
+===================================
+Date: 2026-07-22 15:03:30
+Message: Exception calling "ShowDialog" with "0" argument(s): "Cannot set unknown member 'System.Windows.Controls.Border.Foreground'."
+
+Script stack:
+at <ScriptBlock>, E:\Downloads\Aegis\Aegis-Palworld-Suite-2.2.2-Clipboard-Fix\Aegis-Palworld-Suite-2.2.2-Clipboard-Fix\App\Aegis-Palworld-Suite.ps1: line 952
+at <ScriptBlock>, <No file>: line 1
+
+Full error:
+Exception calling "ShowDialog" with "0" argument(s): "Cannot set unknown member 
+'System.Windows.Controls.Border.Foreground'."
+At E:\Downloads\Aegis\Aegis-Palworld-Suite-2.2.2-Clipboard-Fix\Aegis-Palworld-Suite-2.2.2-Clipboard-Fix\App\Aegis-Palwo
+rld-Suite.ps1:952 char:5
++     $window.ShowDialog() | Out-Null
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : XamlParseException
+ 
+

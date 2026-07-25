@@ -1,0 +1,10 @@
+Aegis Palworld Suite PNG Icon Repair Report
+============================================
+Date: 2026-07-22 16:53:25
+Records scanned: 908
+Existing PNG icons: 0
+WebP icons converted to PNG: 908
+WebP icons downloaded: 0
+Fallbacks remaining: 0
+
+Items still using the fallback:

@@ -1,0 +1,590 @@
+[
+    {
+        "Url":  "https://paldeck.cc/items/Accessory_DragonResist_3",
+        "AssetId":  "Accessory_DragonResist_3",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:27:26.1413924Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Accessory_JumpCount_Increase1",
+        "AssetId":  "Accessory_JumpCount_Increase1",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:27:31.6323154Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Accessory_PPDF_1",
+        "AssetId":  "Accessory_PPDF_1",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:27:37.3264567Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/AncientArmorCold_2",
+        "AssetId":  "AncientArmorCold_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:27:42.8058557Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Antibiotic_Normal",
+        "AssetId":  "Antibiotic_Normal",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:27:48.3392979Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Baked_Berries",
+        "AssetId":  "Baked_Berries",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:27:53.7839781Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/BattleTicket",
+        "AssetId":  "BattleTicket",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:27:59.2588747Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_Accessory_Avoid_1",
+        "AssetId":  "Blueprint_Accessory_Avoid_1",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:28:04.7842444Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_Accessory_Otomo_Earth_1",
+        "AssetId":  "Blueprint_Accessory_Otomo_Earth_1",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:28:10.3622101Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_AncientArmorHeat_5",
+        "AssetId":  "Blueprint_AncientArmorHeat_5",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:28:15.8683692Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_BowGun_2",
+        "AssetId":  "Blueprint_BowGun_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:28:21.3548385Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_ClothArmorHeat_2",
+        "AssetId":  "Blueprint_ClothArmorHeat_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:28:26.8515292Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_CopperHelmet_5",
+        "AssetId":  "Blueprint_CopperHelmet_5",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:28:32.3414109Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_FlameThrower_2",
+        "AssetId":  "Blueprint_FlameThrower_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:28:37.8313555Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_GrenadeLauncher_3",
+        "AssetId":  "Blueprint_GrenadeLauncher_3",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:28:43.6586649Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_Head003_4",
+        "AssetId":  "Blueprint_Head003_4",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:28:49.1690197Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_Head008_4",
+        "AssetId":  "Blueprint_Head008_4",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:28:54.7071815Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_Head013_4",
+        "AssetId":  "Blueprint_Head013_4",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:29:00.2172236Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_HeadEquip025_4",
+        "AssetId":  "Blueprint_HeadEquip025_4",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:29:05.6952887Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_IronArmor_4",
+        "AssetId":  "Blueprint_IronArmor_4",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:29:11.1900324Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_LaserRifle_4",
+        "AssetId":  "Blueprint_LaserRifle_4",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:29:16.7163787Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_MultiGuidedMissileLauncher_2",
+        "AssetId":  "Blueprint_MultiGuidedMissileLauncher_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:29:22.1954270Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_Otomo_ATElectricity_ElementBoost_1",
+        "AssetId":  "Blueprint_Otomo_ATElectricity_ElementBoost_1",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:29:27.7175792Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_Otomo_ElementBoost_Water_1_2",
+        "AssetId":  "Blueprint_Otomo_ElementBoost_Water_1_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:29:33.1938182Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_PlasticHelmet_2",
+        "AssetId":  "Blueprint_PlasticHelmet_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:29:38.8721680Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_SFArmor_3",
+        "AssetId":  "Blueprint_SFArmor_3",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:29:44.4542566Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_SingleShotRifle_3",
+        "AssetId":  "Blueprint_SingleShotRifle_3",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:29:50.0344656Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_SkySubmachineGun_4",
+        "AssetId":  "Blueprint_SkySubmachineGun_4",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:29:56.7169647Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_Sword_3",
+        "AssetId":  "Blueprint_Sword_3",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:30:02.6625417Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_YakushimaBlade003",
+        "AssetId":  "Blueprint_YakushimaBlade003",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:30:08.3726649Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Blueprint_YakushimaHeadEquip002_5",
+        "AssetId":  "Blueprint_YakushimaHeadEquip002_5",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:30:13.9260382Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/BossDefeatReward_BlueberryFairy",
+        "AssetId":  "BossDefeatReward_BlueberryFairy",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:30:19.4832589Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/BossDefeatReward_FoxMage",
+        "AssetId":  "BossDefeatReward_FoxMage",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:30:25.0546014Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/BossDefeatReward_Kitsunebi_Ice",
+        "AssetId":  "BossDefeatReward_Kitsunebi_Ice",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:30:30.6533129Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/BossDefeatReward_SakuraSaurus",
+        "AssetId":  "BossDefeatReward_SakuraSaurus",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:30:36.1507710Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Bow_Triple",
+        "AssetId":  "Bow_Triple",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:30:41.7242322Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Carbonara",
+        "AssetId":  "Carbonara",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:30:47.2357947Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/ClothArmor",
+        "AssetId":  "ClothArmor",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:30:52.7433496Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/CopperArmor_3",
+        "AssetId":  "CopperArmor_3",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:30:58.8363680Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Curry_old",
+        "AssetId":  "Curry_old",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:31:04.6267186Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/DoubleBarrelShotgun_5",
+        "AssetId":  "DoubleBarrelShotgun_5",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:31:10.1824558Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Elixir_weight_01",
+        "AssetId":  "Elixir_weight_01",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:31:15.8396282Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/FarmCrop_Tmp",
+        "AssetId":  "FarmCrop_Tmp",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:31:21.5681407Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/FlameThrower",
+        "AssetId":  "FlameThrower",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:31:27.0594019Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/FriedVegetables",
+        "AssetId":  "FriedVegetables",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:31:32.6526480Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Gasoline",
+        "AssetId":  "Gasoline",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:31:38.2023659Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/GrenadeLauncher_2",
+        "AssetId":  "GrenadeLauncher_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:31:44.2071066Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Hamburger",
+        "AssetId":  "Hamburger",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:31:49.7618228Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Head003_5",
+        "AssetId":  "Head003_5",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:31:55.2921112Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Head008_5",
+        "AssetId":  "Head008_5",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:32:00.8245841Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Head013_5",
+        "AssetId":  "Head013_5",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:32:06.4769790Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/HeadEquip025_2",
+        "AssetId":  "HeadEquip025_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:32:12.0151818Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/HeadEquip032_4",
+        "AssetId":  "HeadEquip032_4",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:32:17.5560773Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/HomingSphereLauncher",
+        "AssetId":  "HomingSphereLauncher",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:32:23.1739602Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/IronHelmet_2",
+        "AssetId":  "IronHelmet_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:32:28.6752807Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Lantern",
+        "AssetId":  "Lantern",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:32:34.3521888Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Launcher_Meteor_5",
+        "AssetId":  "Launcher_Meteor_5",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:32:39.8591993Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/MakeshiftAssaultRifle_2",
+        "AssetId":  "MakeshiftAssaultRifle_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:32:45.4283102Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Meat_BerryGoat",
+        "AssetId":  "Meat_BerryGoat",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:32:51.9496444Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Milk",
+        "AssetId":  "Milk",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:32:58.2596957Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Octavia001_Armor",
+        "AssetId":  "Octavia001_Armor",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:33:03.7623036Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Otomo_ATDark_ElementBoost_1",
+        "AssetId":  "Otomo_ATDark_ElementBoost_1",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:33:09.2992147Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Otomo_ElementBoost_Dark_2",
+        "AssetId":  "Otomo_ElementBoost_Dark_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:33:14.8493105Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Otomo_ElementBoost_Water_3",
+        "AssetId":  "Otomo_ElementBoost_Water_3",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:33:20.3479048Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/PalAwakening_Material_Dark",
+        "AssetId":  "PalAwakening_Material_Dark",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:33:25.8337269Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/PalEgg_Dragon_03",
+        "AssetId":  "PalEgg_Dragon_03",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:33:31.3653106Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/PalEgg_Leaf_03",
+        "AssetId":  "PalEgg_Leaf_03",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:33:37.7926218Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/PalGenderReverse",
+        "AssetId":  "PalGenderReverse",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:33:43.3019740Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/PalPassiveSkillChange_Consumable_MutationPal_Babysitter",
+        "AssetId":  "PalPassiveSkillChange_Consumable_MutationPal_Babysitter",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:33:48.8699835Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/PalPassiveSkillChange_CraftSpeed_up2",
+        "AssetId":  "PalPassiveSkillChange_CraftSpeed_up2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:33:54.4411697Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/PalPassiveSkillChange_SalePrice_Up_2",
+        "AssetId":  "PalPassiveSkillChange_SalePrice_Up_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:33:59.9209025Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/PalSphere_Tera",
+        "AssetId":  "PalSphere_Tera",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:34:05.4711132Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/PalUpgradeStone3",
+        "AssetId":  "PalUpgradeStone3",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:34:10.9397964Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/PlasticArmorHeat_4",
+        "AssetId":  "PlasticArmorHeat_4",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:34:16.5341233Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Potion_High",
+        "AssetId":  "Potion_High",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:34:23.1382238Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/RecurveBow",
+        "AssetId":  "RecurveBow",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:34:28.6204534Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Sandwich",
+        "AssetId":  "Sandwich",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:34:34.2217536Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/SFArmorCold_4",
+        "AssetId":  "SFArmorCold_4",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:34:39.8204916Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Shield_02",
+        "AssetId":  "Shield_02",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:34:45.3455661Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/SkillCard_BubbleShower",
+        "AssetId":  "SkillCard_BubbleShower",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:34:50.9008264Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/SkillCard_FlareTornado",
+        "AssetId":  "SkillCard_FlareTornado",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:34:56.5091333Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/SkillCard_Psychokinesis",
+        "AssetId":  "SkillCard_Psychokinesis",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:35:02.0363758Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/SkillCard_ThunderSpear",
+        "AssetId":  "SkillCard_ThunderSpear",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:35:07.5822883Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/SkillUnlock_Boar",
+        "AssetId":  "SkillUnlock_Boar",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:35:13.1666923Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/SkillUnlock_FlowerRabbit",
+        "AssetId":  "SkillUnlock_FlowerRabbit",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:35:18.7792371Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/SkillUnlock_IceHorse",
+        "AssetId":  "SkillUnlock_IceHorse",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:35:24.3783440Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/SkillUnlock_Monkey_Fire",
+        "AssetId":  "SkillUnlock_Monkey_Fire",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:35:30.7786757Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/SkillUnlock_SnowTigerBeastman",
+        "AssetId":  "SkillUnlock_SnowTigerBeastman",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:35:37.0038133Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/SkillUnlock_Yeti",
+        "AssetId":  "SkillUnlock_Yeti",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:35:43.0329641Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/SkyHeavyBullet",
+        "AssetId":  "SkyHeavyBullet",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:35:48.5709603Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Spear_QueenBee",
+        "AssetId":  "Spear_QueenBee",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:35:54.1042622Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/StealArmorHeat_3",
+        "AssetId":  "StealArmorHeat_3",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:35:59.6502421Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Sword_4",
+        "AssetId":  "Sword_4",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:36:05.2816592Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/Unlock_Picking_Tier2",
+        "AssetId":  "Unlock_Picking_Tier2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:36:10.8443809Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/WidePenetrateShotgun_4",
+        "AssetId":  "WidePenetrateShotgun_4",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:36:16.4561660Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/WorldTreeIngot",
+        "AssetId":  "WorldTreeIngot",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:36:22.0246562Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/YakushimaBlade004_2",
+        "AssetId":  "YakushimaBlade004_2",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:36:27.8033707Z"
+    },
+    {
+        "Url":  "https://paldeck.cc/items/YakushimaHeadEquip004",
+        "AssetId":  "YakushimaHeadEquip004",
+        "Error":  "Argument types do not match",
+        "OccurredAtUtc":  "2026-07-22T22:36:33.3502947Z"
+    }
+]
